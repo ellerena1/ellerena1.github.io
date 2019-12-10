@@ -1,11 +1,11 @@
 # Site settings
-author: Esteban S Llerena
-title: 
+author: Esteban Llerena
+title: beginning my software engineer course 
 header-img: img/home-bg.png
 email: estebanllerena@gmail.com
-copyright_name: Esteban S Llerena
+copyright_name: Esteban Llerena
 description: > # this means to ignore newlines until "baseurl:"
-  
+  excited 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ellerena1
